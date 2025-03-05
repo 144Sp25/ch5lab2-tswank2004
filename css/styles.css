@@ -65,7 +65,7 @@ nav ul {
 
 nav li {
     display: block;
-    border-top: 0.5px;
+    border-top: solid 0.5px;
     color: #f6eee4;
     font-size: 1.5em;
     font-family: Geneva, Arial, sans-serif;
@@ -94,7 +94,7 @@ main h3 {
 }
 
 main ul {
-    list-style-type: square
+    list-style-type: square;
 }
 
 .link {
@@ -136,41 +136,6 @@ main ul {
     color: #f6eee4;
     text-decoration: none;
     font-weight: bold;
-}
-
-/* Style rules for main content */
-main {
-    padding: 2%;
-    font-family: Verdana, Arial, sans-serif;
-}
-
-main p {
-    font-size: 1.25em;
-}
-
-main h3 {
-    padding-top: 2%;
-}
-
-main ul {
-    list-style-type: square;
-}
-
-.link {
-    color: #4d3319;
-    text-decoration: none;
-    font-weight: bold;
-    font-style: italic;
-}
-
-.action {
-    font-size: 1.75em;
-    font-weight: bold;
-    text-align: center;
-}
-
-#contact {
-    text-align: center;
 }
 
 /* Style rules for footer content */
